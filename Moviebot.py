@@ -1,5 +1,5 @@
 """
-@author: Tal Katz
+@author: RATAN
 """
 
 import telebot #Telegram library
